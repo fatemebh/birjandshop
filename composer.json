@@ -1,0 +1,10 @@
+{
+    "autoload" : {
+        "psr-4" : {
+            "Birjandshop\\": "Core/"
+        } 
+    },
+    "require": {
+        "legomolina/simple-orm": "^2.0"
+    }
+}
